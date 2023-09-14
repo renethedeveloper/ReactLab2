@@ -1,0 +1,12 @@
+.sideBar{
+    width: 200px;
+    min-height: 100vh;
+    background-color: lightblue;
+    margin: 5px;
+    position: fixed;
+    top:195px;
+    left: 0;
+}
+hidden{
+    display : none !important ;
+}

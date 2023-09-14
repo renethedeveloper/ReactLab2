@@ -1,0 +1,12 @@
+.form-container{
+    display: flex;
+    flex-direction: column;
+   
+}
+.hidebutton{
+    color: pink;
+    position: fixed;
+    color: white;
+    right: 75px;
+
+}

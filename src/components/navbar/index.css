@@ -1,0 +1,21 @@
+.navbar {
+    height: 200px;
+    width: 100%;
+    background-color: salmon;
+    position: fixed;
+    top: 0;
+    left: 0;
+    
+  }
+  .navbutton{
+    background-color: rgb(78, 53, 57)  ;
+  margin: 8px;
+}
+.buttondiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+ 
+
+}
+  
